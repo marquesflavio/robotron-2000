@@ -40,7 +40,7 @@ main {
 .robo {
     width: 560px;
     flex-shrink: 0;
-    opacity: 0;
+    opacity: 1;
     transition: all 600ms ease-in-out;
     height: 110%;
     z-index: 1;
